@@ -1,7 +1,6 @@
 import React from "react";
 
 function Categories({ categories }) {
-  console.log(process.env.PUBLIC_API_URL);
   return (
     <section className="categories-crd-sec-v3 py-8 bg-secondary">
       <div className="container">
@@ -24,7 +23,7 @@ function Categories({ categories }) {
         </div>
         <div className="sec-content">
           <div className="row categories-crd-list categories-crd-list-v3">
-            {categories.data.courseCategories.data.map((item) => (
+            {categories.data.courseCategories.data?.map((item) => (
               <div className="col-sm-6 col-lg-4 col-xl-3" key={item.id}>
                 <a
                   className="categories-crd bg-white text-center"

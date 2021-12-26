@@ -58,7 +58,7 @@ export async function getStaticProps(context) {
       `,
     }),
   });
-  const courseCategories = await data.json();
+  const courseCategories = (await data.json()) || {};
   return {
     props: {
       courseCategories,
