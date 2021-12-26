@@ -55,7 +55,7 @@ function StudentReview(props) {
                 <div className="col-md-5 testimonial-profile-img">
                   <picture>
                     <source
-                      srcset="images/webp/testimonial-v2-2.webp"
+                      srcSet="images/webp/testimonial-v2-2.webp"
                       type="image/webp"
                     />
                     <img
@@ -81,7 +81,7 @@ function StudentReview(props) {
                 <div className="col-md-5 testimonial-profile-img">
                   <picture>
                     <source
-                      srcset="images/webp/testimonial-v2-1.webp"
+                      srcSet="images/webp/testimonial-v2-1.webp"
                       type="image/webp"
                     />
                     <img
@@ -108,7 +108,7 @@ function StudentReview(props) {
                 <div className="col-md-5 testimonial-profile-img">
                   <picture>
                     <source
-                      srcset="images/webp/girl-img-study.webp"
+                      srcSet="images/webp/girl-img-study.webp"
                       type="image/webp"
                     />
                     <img

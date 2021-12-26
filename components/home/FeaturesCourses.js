@@ -108,7 +108,7 @@ function FeaturesCourses(props) {
                     >
                       <picture>
                         <source
-                          srcset="images/webp/profile-img1.webp"
+                          srcSet="images/webp/profile-img1.webp"
                           type="image/webp"
                         />
                         <img
@@ -210,7 +210,7 @@ function FeaturesCourses(props) {
                     >
                       <picture>
                         <source
-                          srcset="images/webp/profile-img1.webp"
+                          srcSet="images/webp/profile-img1.webp"
                           type="image/webp"
                         />
                         <img
@@ -312,7 +312,7 @@ function FeaturesCourses(props) {
                     >
                       <picture>
                         <source
-                          srcset="images/webp/profile-img1.webp"
+                          srcSet="images/webp/profile-img1.webp"
                           type="image/webp"
                         />
                         <img
@@ -414,7 +414,7 @@ function FeaturesCourses(props) {
                     >
                       <picture>
                         <source
-                          srcset="images/webp/profile-img1.webp"
+                          srcSet="images/webp/profile-img1.webp"
                           type="image/webp"
                         />
                         <img
@@ -516,7 +516,7 @@ function FeaturesCourses(props) {
                     >
                       <picture>
                         <source
-                          srcset="images/webp/profile-img.webp"
+                          srcSet="images/webp/profile-img.webp"
                           type="image/webp"
                         />
                         <img
@@ -618,7 +618,7 @@ function FeaturesCourses(props) {
                     >
                       <picture>
                         <source
-                          srcset="images/webp/profile-img.webp"
+                          srcSet="images/webp/profile-img.webp"
                           type="image/webp"
                         />
                         <img
@@ -722,7 +722,7 @@ function FeaturesCourses(props) {
                     >
                       <picture>
                         <source
-                          srcset="images/webp/profile-img2.webp"
+                          srcSet="images/webp/profile-img2.webp"
                           type="image/webp"
                         />
                         <img
@@ -823,7 +823,7 @@ function FeaturesCourses(props) {
                     >
                       <picture>
                         <source
-                          srcset="images/webp/profile-img3.webp"
+                          srcSet="images/webp/profile-img3.webp"
                           type="image/webp"
                         />
                         <img
@@ -926,7 +926,7 @@ function FeaturesCourses(props) {
                     >
                       <picture>
                         <source
-                          srcset="images/webp/profile-img4.webp"
+                          srcSet="images/webp/profile-img4.webp"
                           type="image/webp"
                         />
                         <img
@@ -1029,7 +1029,7 @@ function FeaturesCourses(props) {
                     >
                       <picture>
                         <source
-                          srcset="images/webp/profile-img5.webp"
+                          srcSet="images/webp/profile-img5.webp"
                           type="image/webp"
                         />
                         <img
@@ -1132,7 +1132,7 @@ function FeaturesCourses(props) {
                     >
                       <picture>
                         <source
-                          srcset="images/webp/profile-img5.webp"
+                          srcSet="images/webp/profile-img5.webp"
                           type="image/webp"
                         />
                         <img
@@ -1236,7 +1236,7 @@ function FeaturesCourses(props) {
                     >
                       <picture>
                         <source
-                          srcset="images/webp/profile-img5.webp"
+                          srcSet="images/webp/profile-img5.webp"
                           type="image/webp"
                         />
                         <img
@@ -1340,7 +1340,7 @@ function FeaturesCourses(props) {
                     >
                       <picture>
                         <source
-                          srcset="images/webp/profile-img5.webp"
+                          srcSet="images/webp/profile-img5.webp"
                           type="image/webp"
                         />
                         <img
@@ -1444,7 +1444,7 @@ function FeaturesCourses(props) {
                     >
                       <picture>
                         <source
-                          srcset="images/webp/profile-img5.webp"
+                          srcSet="images/webp/profile-img5.webp"
                           type="image/webp"
                         />
                         <img
@@ -1548,7 +1548,7 @@ function FeaturesCourses(props) {
                     >
                       <picture>
                         <source
-                          srcset="images/webp/profile-img5.webp"
+                          srcSet="images/webp/profile-img5.webp"
                           type="image/webp"
                         />
                         <img
@@ -1652,7 +1652,7 @@ function FeaturesCourses(props) {
                     >
                       <picture>
                         <source
-                          srcset="images/webp/profile-img5.webp"
+                          srcSet="images/webp/profile-img5.webp"
                           type="image/webp"
                         />
                         <img
@@ -1755,7 +1755,7 @@ function FeaturesCourses(props) {
                     >
                       <picture>
                         <source
-                          srcset="images/webp/profile-img5.webp"
+                          srcSet="images/webp/profile-img5.webp"
                           type="image/webp"
                         />
                         <img
@@ -1859,7 +1859,7 @@ function FeaturesCourses(props) {
                     >
                       <picture>
                         <source
-                          srcset="images/webp/profile-img5.webp"
+                          srcSet="images/webp/profile-img5.webp"
                           type="image/webp"
                         />
                         <img
@@ -1963,7 +1963,7 @@ function FeaturesCourses(props) {
                     >
                       <picture>
                         <source
-                          srcset="images/webp/profile-img5.webp"
+                          srcSet="images/webp/profile-img5.webp"
                           type="image/webp"
                         />
                         <img
@@ -2067,7 +2067,7 @@ function FeaturesCourses(props) {
                     >
                       <picture>
                         <source
-                          srcset="images/webp/profile-img5.webp"
+                          srcSet="images/webp/profile-img5.webp"
                           type="image/webp"
                         />
                         <img

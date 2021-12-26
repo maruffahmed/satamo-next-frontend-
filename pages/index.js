@@ -17,7 +17,7 @@ export default function Home({ courseCategories }) {
       </Head>
       <div id="tmbLoader"></div>
       <Header />
-      <main class="main-page-content">
+      <main className="main-page-content">
         <Hero />
         <HeroSteps />
         <Categories categories={courseCategories} />

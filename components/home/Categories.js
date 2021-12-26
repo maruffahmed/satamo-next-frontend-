@@ -33,7 +33,7 @@ function Categories({ categories }) {
                   <div className="categories-crd-img">
                     <picture>
                       {/* <source
-                        srcset="images/webp/designimg.webp"
+                        srcSet="images/webp/designimg.webp"
                         type="image/webp"
                       /> */}
                       <img
